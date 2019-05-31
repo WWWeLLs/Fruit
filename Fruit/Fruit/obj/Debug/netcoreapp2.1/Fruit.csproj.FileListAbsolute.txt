@@ -1,0 +1,11 @@
+C:\Users\Wennona Wells\source\repos\Fruit\Fruit\bin\Debug\netcoreapp2.1\Fruit.deps.json
+C:\Users\Wennona Wells\source\repos\Fruit\Fruit\bin\Debug\netcoreapp2.1\Fruit.runtimeconfig.json
+C:\Users\Wennona Wells\source\repos\Fruit\Fruit\bin\Debug\netcoreapp2.1\Fruit.runtimeconfig.dev.json
+C:\Users\Wennona Wells\source\repos\Fruit\Fruit\bin\Debug\netcoreapp2.1\Fruit.dll
+C:\Users\Wennona Wells\source\repos\Fruit\Fruit\bin\Debug\netcoreapp2.1\Fruit.pdb
+C:\Users\Wennona Wells\source\repos\Fruit\Fruit\obj\Debug\netcoreapp2.1\Fruit.csprojAssemblyReference.cache
+C:\Users\Wennona Wells\source\repos\Fruit\Fruit\obj\Debug\netcoreapp2.1\Fruit.csproj.CoreCompileInputs.cache
+C:\Users\Wennona Wells\source\repos\Fruit\Fruit\obj\Debug\netcoreapp2.1\Fruit.AssemblyInfoInputs.cache
+C:\Users\Wennona Wells\source\repos\Fruit\Fruit\obj\Debug\netcoreapp2.1\Fruit.AssemblyInfo.cs
+C:\Users\Wennona Wells\source\repos\Fruit\Fruit\obj\Debug\netcoreapp2.1\Fruit.dll
+C:\Users\Wennona Wells\source\repos\Fruit\Fruit\obj\Debug\netcoreapp2.1\Fruit.pdb
